@@ -1,0 +1,1 @@
+Upload the file to your website and access it as site.com/scanner.php. By selecting functions from the options provided, you can make tasks easier. Files containing malicious code will be displayed in red in the results.
